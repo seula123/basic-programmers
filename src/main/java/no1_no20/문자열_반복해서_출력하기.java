@@ -14,5 +14,7 @@ public class 문자열_반복해서_출력하기 {
         }
 
         System.out.println(a);
+
+
     }
 }

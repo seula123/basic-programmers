@@ -20,5 +20,6 @@ public class 대소문자_바꿔서_출력하기 {
         }
 
         System.out.println(answer);
+
     }
 }

@@ -9,5 +9,6 @@ public class 문자열_붙여서_출력하기 {
         String b = sc.next();
 
         System.out.println(a+b);
+
     }
 }

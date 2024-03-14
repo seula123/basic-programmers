@@ -9,5 +9,6 @@ public class 문자열_출력하기 {
             Scanner sc = new Scanner(System.in);
             String a = sc.next();
             System.out.println(a);
+
         }
 }
