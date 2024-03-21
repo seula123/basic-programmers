@@ -1,3 +1,5 @@
+package no21_no40;
+
 public class no23_원소들의_곱과_합 {
     public int solution(int[] num_list) {
         int resultone = 0;
